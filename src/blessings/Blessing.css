@@ -14,8 +14,9 @@
   font-weight: 300; /* Uses the thinner weight */
   direction: rtl;
   flex-direction: column;
-  text-align: center;
+  text-align:end;
   margin-left: 5%;
+  color: #EED6B9;
 }
 
 
