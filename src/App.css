@@ -15,7 +15,7 @@
     width: 50px;
     height: 50px;
     background-color: rgba(179, 162, 68, 0.727);
-    border-radius: 50%;
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%; /* Heart shape */
     animation: circleAnimation 10s linear infinite; /* עיגולים ירדו לאט יותר */
     box-shadow: 0 0 10px rgb(96, 88, 47); /* צל זוהר */
   }
