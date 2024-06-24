@@ -83,7 +83,7 @@ const BlessingData = [
     },
     {
         title: '',
-        content: '🩷🧡💛💚',
+        content: 'כמה דקות והברכה באה, סבלנות!!!🩷🧡💛💚',
         sender: '',
     },
     {
