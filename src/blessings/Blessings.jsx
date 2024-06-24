@@ -86,6 +86,11 @@ const BlessingData = [
         content: '🩷🧡💛💚',
         sender: '',
     },
+    {
+        title: '',
+        content: 'כמה דקות והברכה באה, סבלנות!!!🩷🧡💛💚',
+        sender: '',
+    },
     // הוספת עוד ברכות כך שהן יתמלאו בברכות מתאימות
 ];
 
