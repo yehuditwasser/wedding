@@ -11,7 +11,7 @@
   padding-right: 9%;
   box-sizing: border-box;
   font-family: 'Fredoka', sans-serif;
-  font-weight: bold; /* Uses the thinner weight */
+  font-weight: 300; /* Uses the thinner weight */
   direction: rtl;
   flex-direction: column;
   text-align:start;
